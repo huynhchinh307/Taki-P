@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAuto", "ProjectAuto\ProjectAuto.csproj", "{E3FC0B11-A639-44D7-86B2-4599B845370D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TAKI", "TAKI\TAKI.vdproj", "{2A121146-138A-4F0F-BF8E-1C148E48B64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Debug|x86.ActiveCfg = Debug|x86
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Debug|x86.Build.0 = Debug|x86
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Release|Any CPU.ActiveCfg = Release|x86
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Release|x86.ActiveCfg = Release|x86
+		{E3FC0B11-A639-44D7-86B2-4599B845370D}.Release|x86.Build.0 = Release|x86
+		{2A121146-138A-4F0F-BF8E-1C148E48B64C}.Debug|Any CPU.ActiveCfg = Debug
+		{2A121146-138A-4F0F-BF8E-1C148E48B64C}.Debug|x86.ActiveCfg = Debug
+		{2A121146-138A-4F0F-BF8E-1C148E48B64C}.Release|Any CPU.ActiveCfg = Release
+		{2A121146-138A-4F0F-BF8E-1C148E48B64C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE49399-BCFB-4928-B2E8-1FA64E32F4F7}
+	EndGlobalSection
+EndGlobal
